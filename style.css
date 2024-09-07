@@ -1,0 +1,27 @@
+ body{
+background-color: rgb(244, 244, 248);
+font-family:"Reddit Sans Condensed", sans-serif;
+font-size:35px
+color: rgb(12, 12, 12);
+padding: 50px;
+text-align: center;
+image-orientation:from-image
+ }
+h1{
+font-family:"Reddit Sans Condensed", sans-serif;
+font-size: 35px;
+color: rgb(29, 21, 181);
+image-orientation: from-image;
+}
+
+h2{
+ font-family:"Reddit Sans Condensed", sans-serif;
+font-size: 30px;
+color: rgb(29, 21, 181);
+text-align: center;
+image-orientation: from-image;
+}
+
+img{
+width: 480px;
+}
